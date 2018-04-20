@@ -97,6 +97,8 @@ int CalParmAverage(PACKED_DATA *pData, unsigned int Count)
     return 0;
 }
 
+
+
 //cal average of intersection time
 int CalIntersectionTimeAverage(PACKED_DATA *pData, unsigned int Count)
 {
